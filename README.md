@@ -19,4 +19,6 @@
 <a href = "mailto:bruno48souza2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+ ![Snake animation](https://github.com/Pr4zeres2021/Pr4zers2021/blob/output/github-contribution-grid-snake.svg)
+
  
